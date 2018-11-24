@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/react-quiz/static/js/runtime~main.af45168e.js"
   },
   {
-    "revision": "c45d61e6844d44013081",
-    "url": "/react-quiz/static/js/main.c45d61e6.chunk.js"
+    "revision": "385a1a243e9a22767b6c",
+    "url": "/react-quiz/static/js/main.385a1a24.chunk.js"
   },
   {
-    "revision": "79439113bd7b30d084e2",
-    "url": "/react-quiz/static/js/1.79439113.chunk.js"
+    "revision": "32a8b7555182802ab460",
+    "url": "/react-quiz/static/js/1.32a8b755.chunk.js"
   },
   {
-    "revision": "c45d61e6844d44013081",
-    "url": "/react-quiz/static/css/main.c3b1d5ab.chunk.css"
+    "revision": "385a1a243e9a22767b6c",
+    "url": "/react-quiz/static/css/main.fb52460b.chunk.css"
   },
   {
-    "revision": "6b157f62275dcde61693e7871f7ad384",
+    "revision": "87006134bf535c55e16fe8124c47f9b2",
     "url": "/react-quiz/index.html"
   }
 ];
