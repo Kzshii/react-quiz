@@ -1,0 +1,34 @@
+{
+    "0": [
+      {
+        "question": "Quem é o do pai do Luke Skywalker?",
+        "answers": [
+          {"value": "Darth Vader"},
+          {"value": "Obi-Wan"},
+          {"value": "Han Solo"},
+          {"value": "Yoda"}
+        ],
+        "correct": "Darth Vader"
+      },
+      {
+        "question": "Em qual episódio a estrela da morte é destruída:",
+        "answers": [
+          {"value": "Episódio 1"},
+          {"value": "Episódio 2"},
+          {"value": "Episódio 3"},
+          {"value": "Episódio 4"}
+        ],
+      "correct": "Episódio 4"
+      },
+      {
+        "question": "Qual o nome do planeta onde nasceu o mestre Yoda?",
+        "answers": [
+          {"value": "Dathomir"},
+          {"value": "Dagobah"},
+          {"value": "Kamino"},
+          {"value": "Terra"}
+        ],
+        "correct": "Dagobah"
+      }
+    ]
+  }
